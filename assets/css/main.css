@@ -814,7 +814,7 @@ section,
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
-  min-height: calc(100vh - 100px);
+  min-height: calc(80vh - 100px);
   position: relative;
   display: flex;
   align-items: center;
